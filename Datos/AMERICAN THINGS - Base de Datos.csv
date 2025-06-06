@@ -1,0 +1,405 @@
+Factura,Sucursal,Ciudad,Tipo,Genero,Categoria,Costo,Ventas,Fecha,Hora,Metodo de Pago,Resenia
+750-67-8428,A,Nueva York,Member,Female,Health and beauty,522.83,548.97,1/5/2019,13:08,Ewallet,
+226-31-3081,C,Houston,Normal,Female,Electronic accessories,76.40,80.22,3/8/2019,10:29,Cash,9.6
+631-41-3108,A,Nueva York,Normal,Male,Home and lifestyle,324.31,340.53,Diciembre,13:23,Credit card,7.4
+123-19-1176,A,Nueva York,Member,Male,Health and beauty,465.76,489.05,1/27/2019,20:33,Ewallet,8.4
+373-73-7910,A,Green,Normal,Male,Sports and travel,604.17,634.38,2/8/2019,10:37,Nueva York,5.3
+699-14-3026,C,Houston,Normal,Male,Electronic accessories,597.73,627.62,3/25/2019,18:30,Ewallet,4.1
+355-53-5943,A,Nueva York,Member,Female,Electronic accessories,413.04,433.69,2/25/2019,14:36,Ewallet,5.8
+315-22-5665,C,N/N,Normal,Female,Home and lifestyle,735.60,772.38,2/24/2019,11:38,Ewallet,8
+665-32-9167,A,Nueva York,Member,Female,Health and beauty,72.52,76.15,1/10/2019,17:15,Credit card,7.2
+692-92-5582,B,Chicago,Member,Female,Female,2.000.365,172.75,2/20/2019,13:27,Credit card,5.9
+351-62-0822,B,Chicago,Member,Female,Fashion accessories,57.92,60.82,2/6/2019,18:07,Ewallet,4.5
+529-56-3974,B,Chicago,Member,Male,Electronic accessories,102.04,107.14,3/9/2019,17:03,Cash,6.8
+365-64-0515,12,Nueva York,Normal,Female,Electronic accessories,234.75,246.49,2/12/2019,10:25,Ewallet,7.1
+252-56-2699,A,Nueva York,Normal,Male,Blue,431.90,453.50,2/7/2019,16:48,Ewallet,8.2
+829-34-3910,A,Nueva York,Normal,Female,Health and beauty,713.80,749.49,3/29/2019,19:21,Cash,5.7
+299-46-1805,B,Chicago,Member,Female,Sports and travel,562.32,590.44,1/15/2019,16:19,Cash,4.5
+656-95-9349,A,Nueva York,Female,Female,Health and beauty,482.51,506.64,3/11/2019,11:03,Credit card,4.6
+765-26-6951,A,Nueva York,Normal,Male,Sports and travel,435.66,457.44,1/1/2019,10:39,Credit card,6.9
+329-62-1586,A,Nueva York,Normal,102.3,Food and beverages,164.01,172.21,1/21/2019,18:00,Credit card,8.6
+319-50-3348,B,Chicago,Normal,Female,Home and lifestyle,80.60,84.63,3/11/2019,15:30,Ewallet,4.4
+300-71-4605,C,Houston,Member,Male,Electronic accessories,430.20,451.71,2/25/2019,11:24,Ewallet,4.8
+371-85-5789,B,Chicago,Normal,Male,Health and beauty,263.94,277.14,3/5/2019,10:40,Ewallet,5.1
+273-16-6619,B,Chicago,Normal,Male,Home and lifestyle,66.40,69.72,3/15/2019,12:20,Credit card,4.4
+636-48-8204,A,Nueva York,Normal,Male,Electronic accessories,1231244,181.44,2/17/2019,11:15,Ewallet,9.9
+549-59-1358,A,Nueva York,Member,Male,Sports and travel,265.89,279.18,3/2/2019,17:36,Ewallet,6
+227-03-5010,A,Nueva York,Member,Female,Home and lifestyle,420.72,441.76,3/22/2019,19:20,Credit card,8.5
+649-29-6775,B,Chicago,Normal,Male,Fashion accessories,33.52,35.20,2/8/2019,15:31,Cash,6.7
+189-17-4241,A,N/N,Normal,Female,Fashion accessories,175.34,184.11,3/10/2019,12:17,Credit card,7.7
+145-94-9061,B,Chicago,Normal,Female,Food and beverages,N/N,463.89,1/25/2019,19:48,Cash,9.6
+848-62-7243,A,Nueva York,Normal,Male,Health and beauty,224.01,235.21,3/15/2019,15:36,Cash,7.4
+848-62-7243,B,Chicago,Normal,Male,N/N,470.65,494.18,2/25/2019,19:39,Credit card,4.8
+848-62-7243,B,Chicago,Member,Male,Sports and travel,702.63,737.76,1/28/2019,12:43,Cash,4.5
+640-49-2076,B,Chicago,Normal,Male,Sports and travel,670.24,703.75,1/10/2019,14:49,Cash,5.1
+595-11-5460,A,Nueva York,Normal,193.01,Health and beauty,193.16,202.82,3/15/2019,10:12,Credit card,5.1
+183-56-6882,C,Houston,Female,Female,Food and beverages,397.68,417.56,2/6/2019,10:42,Ewallet,7.5
+232-16-2483,C,Female,Member,Female,Sports and travel,68.12,71.53,1/7/2019,12:28,Ewallet,6.8
+129-29-8530,A,Nueva York,Member,Male,N/N,313.10,328.76,3/10/2019,19:15,Ewallet,7
+272-65-1806,A,Nueva York,Normal,Female,Electronic accessories,547.92,575.32,1/15/2019,17:17,Ewallet,4.7
+333-73-7901,C,Houston,Normal,Female,Health and beauty,439.36,461.33,3/23/2019,13:24,Ewallet,7.6
+777-82-7220,B,Chicago,Member,Male,Home and lifestyle,123453523,253.01,3/3/2019,13:01,Cash,7.7
+280-35-5823,B,Chicago,Member,Female,Home and lifestyle,2,91.06,1/17/2019,18:45,Ewallet,7.9
+554-53-8700,C,Houston,Member,Male,N/N,112.22,117.83,2/2/2019,10:11,Cash,6.3
+354-25-5821,B,Chicago,Member,Female,Sports and travel,414.72,435.46,2/8/2019,13:03,Cash,5.6
+228-96-1411,C,Houston,Member,Female,Food and beverages,789.60,829.08,3/4/2019,20:39,Cash,7.6
+617-15-4209,C,Houston,Member,Male,Health and beauty,30.74,32.28,3/16/2019,19:47,Cash,7.2
+132-32-9879,B,Chicago,Member,Female,Electronic accessories,375.84,394.63,3/9/2019,18:00,Cash,9.5
+370-41-7321,B,Chicago,Member,Male,Health and beauty,510.21,535.72,2/27/2019,17:24,Credit card,8.4
+727-46-3608,B,Chicago,Member,Female,Food and beverages,180.09,189.09,2/6/2019,15:47,Ewallet,4.1
+669-54-1719,B,Chicago,Member,Male,Electronic accessories,113.58,119.26,2/10/2019,12:45,Credit card,8.1
+574-22-5561,C,Female,Member,Female,Fashion accessories,826.30,867.62,3/19/2019,17:08,Ewallet,7.9
+326-78-5178,C,Houston,Member,Male,Food and beverages,639.80,671.79,2/3/2019,10:19,Cash,9.5
+162-48-8011,A,Nueva York,Member,Female,Food and beverages,222.95,234.10,2/10/2019,15:10,Cash,8.5
+616-24-2851,B,Chicago,Member,Female,Fashion accessories,71.48,75.05,3/22/2019,14:42,Ewallet,6.5
+778-71-5554,C,Houston,Member,Male,Fashion accessories,15.43,16.20,1/25/2019,15:46,Credit card,6.1
+242-55-6721,B,Chicago,Normal,Male,Home and lifestyle,32.32,33.94,3/7/2019,11:49,Ewallet,6.5
+399-46-5918,C,Houston,Normal,Female,722.33,687.84,722.23,2/28/2019,19:01,Cash,8.2
+106-35-6779,A,Nueva York,Member,Male,Home and lifestyle,88.68,93.11,3/27/2019,11:26,Cash,5.8
+635-40-6220,A,,Normal,Male,Health and beauty,716.80,752.64,2/7/2019,11:28,Ewallet,6.6
+817-48-8732,A,Nueva York,Member,Female,Home and lifestyle,0,759.68,1/20/2019,15:55,Cash,5.4
+120-06-4233,C,Houston,Normal,Male,Electronic accessories,183.66,192.84,3/12/2019,20:36,Cash,9.3
+285-68-5083,C,Houston,Member,Female,Carlos Paz,74.22,77.93,2/15/2019,,Credit card,10
+803-83-5989,C,Houston,Normal,Male,Home and lifestyle,334.38,351.10,2/24/2019,10:55,Ewallet,7
+347-34-2234,PP,Chicago,Member,Female,Sports and travel,495.63,520.41,2 de marzo,13:40,Ewallet,10
+199-75-8169,A,,Member,Male,Sports and travel,158.10,166.01,3/6/2019,12:27,Credit card,8.6
+853-23-2453,B,Chicago,Member,Male,Health and beauty,302.96,318.11,2/14/2019,14:35,Cash,7.6
+877-22-3308,A,Nueva York,Member,Male,,158.70,166.64,3/13/2019,16:40,Cash,5.8
+838-78-4295,C,5014,Normal,Female,Health and beauty,66.94,70.29,2/10/2019,15:43,Ewallet,6.7
+109-28-2512,B,Chicago,Member,Female,Fashion accessories,585.66,614.94,1/7/2019,15:01,Ewallet,9.9
+232-11-3025,A,Nueva York,Normal,Normal,Sports and travel,,827.09,1/24/2019,10:04,Cash,6.4
+382-03-4532,A,Nueva York,,Female,Health and beauty,Dieciocho,19.25,2/2/2019,18:50,Cash,4.3
+393-65-2792,C,Houston,Normal,Male,394-55-2444,894.80,939.54,1/6/2019,12:46,Credit card,Houston
+796-12-2025,C,,Normal,,Fashion accessories,621.20,652.26,2/11/2019,16:19,Cash,5.9
+510-95-6347,,Chicago,Member,Female,Food and beverages,145.56,,3/5/2019,18:17,Ewallet,4
+841-35-6630,C,Houston,Famale,Female,Electronic accessories,455.46,478.23,3/9/2019,18:21,Cash,8.7
+287-21-9091,A,Nueva York,Normal,Male,Home and lifestyle,672.03,705.63,1/22/2019,10:55,Ewallet,9.4
+732-94-0499,,,Normal,Female,,416.50,437.33,1/13/2019,Diecisiete treinta,Credit card,5.4
+263-10-3913,2/27/2019,Houston,Member,Male,Fashion accessories,441.36,463.43,1/9/2019,14:20,Credit card,8.6
+381-20-0914,A,Nueva York,Member,Female,Fashion accessories,180.09,189.09,1/12/2019,15:48,Credit card,5.7
+829-49-1914,C,Houston,Member,Female,,783.10,822.26,3/5/2019,16:24,Miembro,6.6
+756-01-7507,C,Houston,Normal,Female,2/14/2019,101.90,107.00,1/22/2019,18:56,Cash,6
+870-72-4431,C,Houston,Normal,Female,Health and beauty,595.14,624.90,1/21/2019,14:42,Credit card,5.5
+847-38-7188,B,Chicago,Normal,Female,Food and beverages,290.04,304.54,1/26/2019,19:56,Ewallet,6.4
+480-63-2856,C,Houston,NormalMALE,Male,Food and beverages,154.00,161.70,1/23/2019,Credit card,Ewallet,6.6
+787-56-0757,C,Houston,,Female,Food and beverages,321.44,337.51,2/23/2019,18:45,Credit card,8.3
+360-39-5055,C,Houston,Member,Male,Sports and travel,244.55,256.78,3/9/2019,10:17,Cash,6.6
+730-50-9884,C,Houston,Normal,Female,,581.42,610.49,3/5/2019,14:31,Ewallet,4
+362-58-8315,Cisco,Houston,Normal,Male,,382.60,401.73,3/25/2019,10:23,Cash,9.9
+633-44-8566,A,Nueva York,Member,Male,Food and beverages,345.66,,3/27/2019,20:35,Credit card,7.3
+504-35-8843,A,Nueva York,Normal,Male,Sports and travel,42.47,44.59,1/2/2019,16:57,Cash,5.7
+318-68-5053,B,Chicago,Normal,Female,Health and beauty,461.94,485.04,2/27/2019,17:55,Cash,6.1
+565-80-5980,C,Houston,Member,Female,Home and lifestyle,189.52,199.00,1/23/2019,10:25,Cash,7.1
+225-32-0908,SAda,Houston,Normal,Female,2/14/2019,448.60,471.03,1/26/2019,19:54,Ewallet,8.2
+873-51-0671,A,,Member,Female,,153.86,161.55,,16:42,Ewallet,5.1
+152-08-9985,B,Chicago,Member,Male,Health and beauty,Cash,608.20,3/12/2019,12:09,Credit card,8.6
+512-91-0811,C,Houston,Normal,Male,Health and beauty,0,94.24,2/6/2019,20:05,Credit card,6.6
+594-34-4444,Aer,Nueva York,Normal,Male,Electronic accessories,97.16,102.02,3/8/2019,20:38,Ewallet,7.2
+766-85-7061,B,Chicago,Normal,Male,Health and beauty,878.70,922.64,3/29/2019,10:25,Ewallet,5.1
+871-39-9221,C,Houston,Normal,Female,Electronic accessories,74.70,78.44,2/9/2019,13:11,Cash,4.1
+865-92-6136,A,Nueva York,Normal,Male,Food and beverages,158.25,166.16,3/23/2019,10:16,Ewallet,9.3
+733-01-9107,ZZZ,Chicago,Normal,Male,Home and lifestyle,496.20,521.01,3/5/2019,18:14,Cash,7.4
+163-56-7055,C,Houston,Member,Malo,Fashion accessories,48.71,51.15,3/26/2019,19:20,Cash,4.1
+189-98-2939,C,Houston,Normal,Male,Fashion accessories,706.95,742.30,3/1/2019,13:22,Cash,7.2
+551-21-3069,C,Houston,Normal,Female,Electronic accessories,207.63,218.01,2/1/2019,11:27,Cash,4.9
+212-62-1842,A,Nueva York,Normal,Male,Food and beverages,Trecientoscuarenta y nueve,367.04,3/28/2019,16:44,Cash,9.9
+716-39-1409,B,Chicago,Normal,Male,Health and beauty,212.45,223.07,3/19/2019,18:19,Cash,8
+704-48-3927,A,Nueva York,Member,Male,Electronic accessories,886.70,931.04,1/12/2019,14:50,Ewallet,7.3
+628-34-3388,C,Houston,Normal,Male,Fashion accessories,164.28,172.49,1/5/2019,20:54,Credit card,7.9
+630-74-5166,A,Nueva York,Normal,Male,Sports and travel,372.78,391.42,3/22/2019,20:19,,7.4
+588-01-7461,C,Houston,Normal,Female,,305.82,321.11,3/24/2026,10:43,Cash,4.2
+861-77-0145,C,Member,Member,Male,Electronic accessories,819.70,860.69,3/3/2019,14:30,Cash,9.2
+479-26-8945,B,Chicago,Member,Female,35897155,32.98,34.63,2/5/2019,11:32,Ewallet,4.6
+210-67-5886,C,Houston,Member,Female,Health and beauty,294.63,Healt and beauty,2/5/2019,10:41,Credit card,7.8
+227-78-1148,B,Chicago,Normal,Female,Fashion accessories,509.88,535.37,13/15/2019,12:44,Cash,8.4
+645-44-1170,A,Nueva York,Anormal,Male,Home and lifestyle,522.63,548.76,1/19/2019,20:07,Ewallet,4.3
+237-01-6122,65,111111,Member,Female,Home and lifestyle,727.11,763.47,2/1/2019,20:31,Credit card,9.5
+225-98-1496,C,Houston,Normal,Female,5555556,Famale,85.11,3/2/2025,13:01,Credit card,7.1
+291-32-1427,B,Chicago,Member,Male,Fashion accessories,109.70,115.19,3/5/2019,12:29,Ewallet,5.3
+659-65-8956,B,Martin566,Male,Male,2/14/2019,51.36,53.93,1/16/2019,15:26,Ewallet,5.2
+642-32-2990,A,Nueva York,Famale,Female,Food Lifestyle586,109.60,115.08,2/2/2019,20:48,Ewallet,6
+378-24-2715,B,Chicago,Normal,Male,Home and lifestyle,ciento seis mil,112.22,1/20/2019, 8 PM,112.22,4.1cuatro punto 1
+638-60-7125,A,,Normal,Female,Electronic accessories,796.48,836.30,2/14/2019,17:03,Credit card,5.2
+659-36-1684,C,Houston,Member,Male,Sports and travel,399.84,419.83,1/12/2019,12:02,Credit card,6.5
+219-22-9386,B,Chicago,Member,Male,,,944.62,3/9/2019,17:26,,4.2
+336-78-2147,C,,Member,Male,Home and lifestyle,511.28,536.84,3/13/2019,19:52,Credit card,4.6
+268-27-6179,B,Chicago,Famale,Female,,451.76,474.35,,,Ewallet,
+668-90-8900,A,Nueva York,,Female,,655.83,688.62,3/10/2019,18:44,Credit card,Ewallet
+870-54-3162,A,Nueva York,Normal,Noraml,Sports and travel,161.25,169.31,1/27/2019,,Cash,
+189-08-9157,C,Houston,Normal,Female,2/14/2019,285.57,299.85,1/8/2019,16:17,Credit card,5.9
+663-86-9076,C,Houston,Member,Female,C,548.32,575.74,1/8/2019,15:57,Ewallet,8.5
+549-84-7482,B,A,Normal,Female,Sports and travel,812.52,853.15,2/8/2019,11:15,Ewallet,7.2
+191-10-6171,B,Chicago,Normal,Female,Fashion accessories,277.34,291.21,1/25/2019,13:18,Cash,7.5
+802-70-5316,A,Nueva York,Member,Female,Sports and travel,552.78,580.42,3/6/2019,20:34,Cash,8.3
+695-51-0018,B,Chicago,Normal,Female,Sports and travel,139.36,146.33,2/10/2019,18:36,Cash,7.4
+590-83-4591,B,Chicago,Member,,Electronic accessories,¿,550.94,,,Credit card,8.8
+,C,Houston,Normal,Female,Health and beauty,487.80,512.19,3/8/2019,16:43,Ewallet,5.3
+597-78-7908,C,Houston,Normal,Male,5666332,270.66,284.19,2/18/2019,19:39,Cash,6.2
+700-81-1757,A,Nueva York,Normal,Female,,131.55,138.13,,20:59,Credit card,Ewallet
+354-39-5160,A,Nueva York,Member,Female,Home and lifestyle,206.52,216.85,2/18/2019,15:39,Cash,9.8
+241-72,B,Chicago,Normal,Member,Sports and travel,519.10,545.06,2/16/2019,12:21,Cash,8.2
+575-30-8091,A,Nueva York,Normal,Male,Sports and travel,580.00,609.00,3/16/2019,19:25,Ewallet,9.2
+casa,C,Houston,Member,Female,Sports and travel,898.00,942.90,1/23/2019,13:00,Credit card,5.4
+280-17-4359,,,Member,Male,Health and beauty,,950.25,1/25/2019,13:48,Cash,8.1
+338-65-2210,C,Houston,Member,Female,Health and beauty,686.00,720.30,2/5/2019,19:57,Cash,9.1
+488-25-4221,C,Houston,Member,Female,Food and beverages,30.41,31.93,2/22/2019,10:36,Credit card,8.4
+239-10-7476,A,Nueva York,Normal,Female,Home and lifestyle,467.70,491.09,1/21/2019,16:37,Ewallet,8
+458-41-1477,C,Houston,Anoism555,Female,Health and beauty,277.56,291.44,3/8/2019,17:11,Credit card,9.5
+685-64-1609,A,Nueva York,Member,Female,Fashion accessories,301.40,316.47,2/10/2019,12:28,Ewallet,9.2
+568-90-5112,C,Houston,Normal,Male,Health and beauty,264.56,277.79,3/19/2019,12:46,Credit card,5.6
+,B,Chicago,Member,Male,Home and lifestyle,574.88,603.62,3/6/2019,15:07,Credit card,6.2
+238-49-0436,A,Nueva York,Normal,Male,,259.68,272.66,3/27/2019,13:48,Credit card,4.9
+608-96-3517,B,,2/14/2019,Female,Fashion accessories,366.16,384.47,3/23/2019,19:20,Credit card,4.8
+584-86-7256,C,Houston,Member,Male,Sports and travel,241.92,254.02,3/11/2019,16:07,Credit card,7.3
+746-94-0204,A,Nueva York,Normal,Male,Fashion accessories,749.16,786.62,1/29/2019,11:56,Credit card,7.4
+,C,Houston,Normal,Normal,Food and beverages,98.88,ciento trece,2/7/2019,18:23,Ewallet,9.9
+400-89-4171,C,Houston,Normal,Female,Sports and travel,647.76,680.15,1/28/2019,13:05,Cash,9.3
+782-95-9291,A,Nueva York,Member,Male,Food and beverages,461.45,484.52,2/20/2019,15:55,Credit card,9
+279-74-2924,B,Chicago,Member,Male,Electronic accessories,72.17,75.78,1/4/2019,19:40,Cash,Sports and travel
+307-85-2293,B,Chicago,Normal,Male,Home and lifestyle,251.40,263.97,3/7/2019,13:58,Ewallet,9.7
+743-04-1105,B,Chicago,Member,Male,Health and beauty,874.98,918.73,3/30/2019,14:43,Ewallet,6
+423-57-2993,B,Chicago,,Male,Sports and travel,560.34,588.36,3/27/2019,19:18,Ewallet,10
+894-41-5205,C,Houston,Normal,Female,Food and beverages,345.44,362.71,1/19/2019,19:39,Credit card,8.3
+275-28-0149,A,Nueva York,Normal,Male,Sports and travel,63.69,66.87,2/25/2019,16:21,Cash,6
+101-17-6199,A,Nueva York,Normal,Male,Food and beverages,320.53,336.56,3/13/2019,19:44,Credit card,7
+423-80-0988,C,Houston,Normal,Male,,152.80,160.44,1/30/2019,19:42,Ewallet,6.5
+548-46-9322,ARCa555,Chicago,Normal,Male,Food and beverages,399.00,418.95,2/20/2019,15:24,Credit card,5.9
+505-02-0892,B,Chicago,Member,Male,Health and beauty,340.56,357.59,2/25/2019,14:12,Ewallet,5.6
+234-65-2137,C,Houston,Normal,Male,Home and lifestyle,955.80,"1,003.59",1/16/2019,13:32,Cash,4.8
+687-47-8271,A,Nueva York,Normal,Male,Fashion accessories,989.80,"1,039.29",2/8/2019,16:20,Credit card,8.7
+796-32-9050,A,Nueva York,Normal,Male,Food and beverages,307.68,323.06,1/19/2019,16:31,Cash,6.5
+105-31-1824,A,Nueva York,Member,Male,Sports and travel,486.64,510.97,2/1/2019,15:10,Credit card,8.5
+249-42-3782,A,Nueva York,Normal,Male,Health and beauty,350.05,367.55,1/3/2019,11:36,Ewallet,5.5
+316-55-4634,B,Chicago,Member,Male,Food and beverages,400.25,420.26,1/26/2019,12:45,Credit card,9.4
+733-33-4967,C,Houston,Normal,Male,Electronic accessories,166.80,175.14,3/3/2019,19:17,Cash,6.3
+608-27-6295,B,Chicago,Member,Male,Electronic accessories,317.34,333.21,1/19/2019,17:34,Credit card,9.8
+414-12-7047,B,Chicago,Normal,Male,Food and beverages,158.32,166.24,1/18/2019,12:04,Ewallet,8.7
+827-26-2100,A,Nueva York,Member,Male,Home and lifestyle,304.56,319.79,3/21/2019,16:21,Ewallet,8.8
+175-54-2529,A,Nueva York,Member,Male,Food and beverages,177.36,186.23,3/3/2019,17:01,Credit card,9.6
+139-52-2867,C,Houston,Normal,Female,Fashion accessories,157.57,165.45,2/13/2019,10:50,Credit card,4.8
+407-63-8975,A,Nueva York,Normal,Male,Food and beverages,443.28,465.44,3/23/2019,19:16,Ewallet,4.4
+342-65-4817,C,Houston,Member,Male,Health and beauty,260.40,273.42,1/28/2019,16:47,Ewallet,9.9
+130-98-8941,C,Houston,Normal,Male,Fashion accessories,449.82,472.31,2/9/2019,10:00,Cash,5.7
+434-83-9547,C,Houston,Member,Male,Food and beverages,307.76,Miley,1/23/2019,11:51,Cash,7.7
+851-28-6367,A,Nueva York,Member,Male,Sports and travel,155.00,162.75,3/23/2019,10:55,Ewallet,8
+824-88-3614,C,Houston,Normal,Male,Health and beauty,274.48,288.20,1/25/2019,15:00,Ewallet,5.7
+586-25-0848,A,Nueva York,Normal,Female,Sports and travel,86.38,90.70,3/4/2019,11:19,Credit card,6.7
+895-66-0685,B,Chicago,Member,Male,Food and beverages,54.24,56.95,3/5/2019,19:46,Ewallet,8
+305-14-0245,B,Chicago,Member,Female,Home and lifestyle,755.92,793.72,3/3/2019,19:00,Ewallet,7.5
+732-04-5373,B,Chicago,Member,Male,Home and lifestyle,185.88,195.17,2/8/2019,10:53,Cash,7
+400-60-7251,A,Nueva York,,Male,Home and lifestyle,,77.77,2/10/2019,12:50,Ewallet,9.9
+593-65-1552,C,Houston,Normal,Female,Home and lifestyle,279.24,293.20,1/28/2019,20:50,Credit card,5.9
+284-34-9626,B,Chicago,Normal,Female,Home and lifestyle,231.12,242.68,2/11/2019,10:39,Credit card,7.2
+437-58-8131,B,Chicago,Normal,Female,Fashion accessories,147.04,154.39,1/15/2019,13:41,Ewallet,4.6
+286-43-6208,C,Houston,Normal,Female,Food and beverages,790.20,829.71,3/16/2019,19:08,Cash,9.2
+641-43-2399,B,Chicago,Normal,Male,Home and lifestyle,102.20,20000000,1/26/2019,20:23,Ewallet,5.7
+831-07-6050,A,Nueva York,Normal,Male,Electronic accessories, 111%+,171.73,3/19/2019,11:30,Credit card,9.9
+556-86-3144,C,Houston,Member,Female,Fashion accessories,74.29,78.00,1/13/2019,19:30,Cash,5
+848-24-9445,C,Houston,Member,Male,Health and beauty,87.40,91.77,3/26/2019,18:03,Cash,4.9
+856-22-8149,A,Nueva York,Normal,Female,Home and lifestyle,25.29,26.55,3/23/2019,10:13,Ewallet,6.1
+699-01-4164,C,Houston,Normal,Male,Health and beauty,166.00,174.30,3/12/2019,19:58,Credit card,8.2
+420-11-4919,C,Houston,Member,Female,Food and beverages,356.95,374.80,2/17/2019,19:57,Credit card,5.5
+606-80-4905,C,Houston,Member,Female,Sports and travel,114.90,120.65,1/29/2019,10:01,Credit card,6.8
+542-41-0513,B,Chicago,,,Electronic accessories,229.96,241.46,3/15/2019,11:57,Cash,6.6
+426-39-2418,C,Houston,Normal,Male,Electronic accessories,429.87,451.36,1/14/2019,10:02,Cash,9.8
+875-46-5808,B,Chicago,Member,Male,Health and beauty,259.00,271.95,2/6/2019,14:51,Ewallet,8.7
+394-43-4238,B,Chicago,Member,Male,Home and lifestyle,88.85,93.29,2/15/2019,12:42,Credit card,5.4
+749-24-1565,A,Nueva York,Normal,Female,Health and beauty,207.27,217.63,1/3/2019,12:02,Ewallet,7.9
+672-51-8681,C,Houston,Member,Female,Electronic accessories,599.85,629.84,1/4/2019,18:19,Credit card,9.7
+263-87-5680,C,Houston,Member,Female,Home and lifestyle,285.30,299.57,3/18/2019,17:38,Ewallet,7.8
+573-58-9734,B,Chicago,Normal,Female,Fashion accessories,91.11,95.67,3/28/2019,13:41,Ewallet,5.1
+817-69-8206,B,Chicago,Normal,Female,,897.57,942.45,3/2/2019,19:42,Credit card,6.5
+888-02-0338,A,452263,Normal,Male,Electronic accessories,236.07,247.87,1/25/2019,20:24,Ewallet,5.9
+677-11-0152,C,Houston,Normal,Female,Food and beverages,839.34,881.31,1/16/2019,18:08,Cash,8.8
+142-63-6033,B,Chicago,Normal,Male,Home and lifestyle,461.80,484.89,3/20/2019,19:17,Ewallet,4.9
+656-16-1063,B,Chicago,Normal,Male,Sports and travel,139.26,146.22,1/4/2019,13:24,Credit card,4.4
+891-58-8335,B,Chicago,Member,Female,Sports and travel,207.27,217.63,3/11/2019,15:53,Cash,6.5
+802-43-8934,A,Nueva York,Normal,Male,Home and lifestyle,18.28,19.19,3/22/2019,15:05,Credit card,8.3
+560-30-5617,B,Chicago,Normal,Female,Sports and travel,123.85,130.04,3/24/2019,18:27,Cash,8.5
+319-74-2561,A,Nueva York,Member,Female,Electronic accessories,283.92,298.12,2/21/2019,16:55,Cash,5.5
+549-03-9315,B,Chicago,Normal,Male,Fashion accessories,758.96,796.91,2/12/2019,12:58,Ewallet,8.7
+790-29-1172,B,Chicago,Normal,Female,Food and beverages,172.02,180.62,3/10/2019,18:59,Credit card,7.9
+239-36-3640,B,Chicago,Normal,Male,Electronic accessories,272.10,285.71,1/31/2019,13:44,Ewallet,6.1
+468-01-2051,B,Chicago,Normal,Male,Food and beverages,434.56,456.29,3/6/2019,13:46,Ewallet,5.4
+389-25-3394,C,Houston,Normal,Male,Electronic accessories,59.05,62.00,2/17/2019,18:06,Cash,9.4
+279-62-1445,C,Houston,Member,Female,Fashion accessories,12.54,13.17,2/21/2019,12:38,Cash,8.2
+213-72-6612,A,Nueva York,Normal,Male,Food and beverages,86.50,90.83,3/20/2019,15:56,Cash,6.2
+746-68-6593,C,Houston,Member,Female,Sports and travel,174.32,183.04,1/11/2019,14:29,Credit card,9.7
+836-82-5858,B,Chicago,Member,Male,Health and beauty,624.33,655.55,1/26/2019,19:14,Ewallet,4
+583-72-1480,C,Houston,Member,Male,Electronic accessories,148.24,155.65,1/31/2019,16:24,Ewallet,9.7
+466-61-5506,B,Chicago,Member,Female,Electronic accessories,544.20,571.41,2/26/2019,10:52,Cash,5.3
+721-86-6247,A,Nueva York,Normal,Female,Home and lifestyle,507.36,532.73,3/11/2019,12:55,Ewallet,7.4
+289-65-5721,B,Chicago,Normal,Female,Fashion accessories,162.74,170.88,1/26/2019,19:28,Cash,6.5
+545-46-3100,B,Chicago,Member,Female,Electronic accessories,31.77,33.36,3/12/2019,13:52,Credit card,8.7
+418-02-5978,B,Chicago,Normal,Female,Health and beauty,756.81,794.65,2/11/2019,10:54,Cash,8
+269-04-5750,B,Chicago,Member,Male,Fashion accessories,295.28,310.04,2/21/2019,18:31,Cash,6.7
+157-13-5295,A,Nueva York,Member,Male,Health and beauty,519.40,545.37,3/9/2019,18:24,Ewallet,6.5
+645-78-8093,A,Nueva York,Normal,Female,Sports and travel,186.28,195.59,1/20/2019,18:09,Ewallet,4.1
+211-30-9270,C,Houston,Normal,Male,Health and beauty,87.05,91.40,1/28/2019,15:16,Credit card,4.9
+755-12-3214,C,Houston,Member,Female,Fashion accessories,221.10,232.16,3/5/2019,17:07,Credit card,8.6
+346-84-3103,B,Chicago,Member,Female,Electronic accessories,66.10,69.41,3/2/2019,19:26,Cash,4.3
+478-06-7835,A,Nueva York,Normal,Male,Fashion accessories,89.69,94.17,1/11/2019,11:20,Ewallet,4.9
+540-11-4336,A,Nueva York,Normal,Male,Food and beverages,224.46,235.68,1/11/2019,16:49,Credit card,5.6
+448-81-5016,A,Nueva York,Normal,Male,Health and beauty,119.54,125.52,3/11/2019,12:01,Credit card,5.8
+142-72-4741,C,Houston,Member,Male,Fashion accessories,186.40,195.72,2/28/2019,18:37,Credit card,6
+217-58-1179,A,Nueva York,Member,Male,Home and lifestyle,250.60,263.13,1/5/2019,11:25,Cash,4.2
+376-02-8238,B,Chicago,Normal,Male,Home and lifestyle,750.96,788.51,2/2/2019,18:42,Credit card,8.3
+530-90-9855,A,Nueva York,Member,Male,Home and lifestyle,380.72,399.76,1/1/2019,14:47,Cash,5.7
+866-05-7563,B,Chicago,Member,Female,Electronic accessories,244.20,256.41,2/9/2019,19:43,Cash,4.8
+604-70-6476,A,Nueva York,Member,Male,Fashion accessories,89.70,94.19,1/23/2019,14:04,Ewallet,6.8
+799-71-1548,A,Nueva York,Member,Male,Electronic accessories,310.88,326.42,1/7/2019,16:11,Credit card,8.8
+785-13-7708,B,Chicago,Normal,Male,Food and beverages,511.42,536.99,1/14/2019,19:06,Credit card,4.2
+845-51-0542,B,Chicago,Member,Male,Food and beverages,418.95,439.90,2/2/2019,15:34,Ewallet,6.4
+662-47-5456,C,Houston,Member,Male,Fashion accessories,351.90,369.50,3/17/2019,19:06,Credit card,8.4
+883-17-4236,C,Houston,Normal,Female,Sports and travel,28.78,30.22,3/2/2019,19:44,Credit card,7.2
+290-68-2984,A,Nueva York,Normal,Male,Home and lifestyle,95.00,99.75,3/16/2019,11:22,Cash,5.2
+704-11-6354,A,Nueva York,Member,Male,Home and lifestyle,471.20,494.76,1/6/2019,11:23,Cash,8.9
+110-48-7033,B,Chicago,Member,Male,Fashion accessories,130.48,137.00,1/29/2019,14:12,Cash,9
+366-93-0948,A,Nueva York,Member,Male,Electronic accessories,66.35,69.67,1/31/2019,10:46,Credit card,9.7
+729-09-9681,A,Nueva York,Member,Male,Home and lifestyle,155.46,163.23,2/5/2019,10:16,Ewallet,8.7
+151-16-1484,A,Nueva York,Member,Male,Electronic accessories,129.00,135.45,2/13/2019,12:38,Ewallet,6.5
+380-94-4661,C,Houston,Member,Male,Male555,10000,523215,2/7/2019,13:05,Credit card,6.9
+850-41-9669,A,Nueva York,Normal,Female,Electronic accessories,675.54,709.32,3/19/2019,13:25,Ewallet,6.2
+821-07-3596,C,Houston,Normal,Female,Fashion accessories,65.80,69.09,3/7/2019,14:53,Ewallet,5.6
+655-85-5130,B,Chicago,Member,Female,Fashion accessories,153.20,160.86,3/13/2019,19:22,Cash,5.7
+447-15-7839,A,Nueva York,Member,Female,Sports and travel,222.40,233.52,2/9/2019,11:00,Cash,4.2
+154-74-7179,B,100%,Normal,Male,Sports and travel,54.45,57.17,2/26/2019,19:24,Ewallet,7.9
+253-12-6086,A,Nueva York,Member,Female,,688.80,,3/12/2019,12:43,Credit card,8.7
+808-65-0703,C,Houston,Normal,Male,Home and lifestyle,141.88,148.97,3/14/2019,17:22,Credit card,6.9
+571-94-0759,B,Chicago,Member,Female,Food and beverages,746.00,783.30,1/8/2019,20:55,Cash,9.5
+144-51-6085,A,Nueva York,Member,Male,Home and lifestyle,282.96,297.11,1/5/2019,16:05,Credit card,4.4
+731-14-2199,A,Nueva York,Member,Female,Home and lifestyle,355.40,373.17,1/4/2019,13:34,Ewallet,7
+783-09-1637,B,Chicago,Normal,Female,Sports and travel,337.15,354.01,3/6/2019,18:13,Ewallet,6.3
+687-15-1097,C,Houston,Member,Female,Health and beauty,42.24,44.35,1/3/2019,19:17,Cash,9.7
+126-54-1082,A,Nueva York,Member,Female,Home and lifestyle,193.86,203.55,1/7/2019,11:44,Credit card,8.8
+633-91-1052,A,Nueva York,Normal,Female,Home and lifestyle,24.06,25.26,1/27/2019,15:51,Cash,5.1
+477-24-6490,ara,Chicago,Normal,Female,Health and beauty,598.26,628.17,2/26/2019,16:52,Ewallet,7.9
+566-19-5475,B,Chicago,Normal,Male,Fashion accessories,335.79,352.58,1/7/2019,20:52,Cash,6.2
+526-86-8552,C,Houston,Member,Female,Home and lifestyle,218.20,229.11,1/7/2019,17:36,Cash,7.1
+376-56-3573,C,Houston,Normal,Female,Fashion accessories,381.68,400.76,2/2/2019,13:23,Ewallet,6.4
+537-72-0426,C,Houston,Member,Male,Fashion accessories,709.90,745.40,3/20/2019,16:28,Cash,5.7
+828-61-5674,A,Nueva York,Member,Male,Sports and travel,440.20,462.21,3/20/2019,19:57,Credit card,9.6
+136-08-6195,A,Nueva York,Normal,Female,Home and lifestyle,559.68,587.66,2/15/2019,17:01,Credit card,6.4
+523-38-0215,aaswee,Houston,Normal,Male,Home and lifestyle,37.00,38.85,3/6/2019,13:29,Credit card,7.9
+490-29-1201,,Nueva York,Normal,Female,Sports and travel,15.34,16.11,1/6/2019,11:09,Cash,6.5
+667-92-0055,A,Nueva York,Member,Male,Health and beauty,598.98,628.93,3/4/2019,15:02,Ewallet,8.5
+565-17-3836,A,Nueva York,Member,Female,Health and beauty,190.68,200.21,3/12/2019,14:21,Cash,9.1
+498-41-1961,B,Chicago,Normal,Male,Health and beauty,333.40,350.07,2/20/2019,18:01,Cash,7.6
+593-95-4461,C,Houston,Member,Male,Home and lifestyle,74.86,78.60,3/24/2019,14:49,Cash,6.9
+226-71-3580,C,Houston,Normal,Female,Sports and travel,213.75,224.44,1/31/2019,12:02,Cash,9.5
+283-79-9594,B,Chicago,Normal,Female,Food and beverages,339.57,356.55,1/25/2019,13:30,,5.2
+430-60-3493,A,Nueva York,Member,Female,Home and lifestyle,664.16,697.37,2/3/2019,14:38,Cash,4.2
+139-20-0155,B,Chicago,Member,Male,Electronic accessories,403.00,423.15,1/24/2019,17:37,Credit card,7
+558-80-4082,C,Houston,Normal,Male,Electronic accessories,194.95,204.70,3/14/2019,17:20,Ewallet,6
+278-97-7759,A,Nueva York,Member,Female,Electronic accessories,62.48,65.60,2/18/2019,20:29,Cash,4.7
+316-68-6352,A,Nueva York,Member,Female,Food and beverages,72.72,76.36,1/21/2019,10:00,Cash,7.1
+585-03-5943,B,Chicago,Normal,Male,Health and beauty,181.10,190.16,3/13/2019,,Ewallet,5.9
+211-05-0490,C,Houston,Member,Female,Electronic accessories,259.60,272.58,3/3/2019,13:42,Cash,7.5
+727-75-6477,C,Houston,Normal,Male,Electronic accessories,115.36,121.13,3/29/2019,14:44,Cash,6.4
+744-02-5987,A,Nueva York,Member,Male,Home and lifestyle,470.28,493.79,1/10/2019,14:16,Ewallet,5.8
+,A,Nueva York,Member,Male,Home and lifestyle,240.04,252.04,1/25/2019,15:54,,4.5
+779-06-0012,C,C,Member,Member,2/14/2019,88.61,93.04,1/19/2019,10:21,Cash,7.7
+446-47-6729,C,Houston,Normal,Male,Fashion accessories,199.64,209.62,1/2/2019,18:09,Credit card,6.7
+573-10-3877,Male,Chicago,Member,Male,Health and beauty,39.01,40.96,3/12/2019,16:46,Credit card,4.7
+735-06-4124,C,Houston,Normal,Male,Food and beverages,48.61,51.04,2/25/2019,15:31,Cash,4.4
+439-54-7422,A,Nueva York,Normal,Female,Female,204.76,215.00,3/18/2019,17:15,3/18/2019,4.7
+396-90-2219,B,Chicago,Normal,Female,Electronic accessories,119.68,125.66,2/23/2019,12:29,Cash,8.6
+411-77-0180,A,Nueva York,A,Male,Electronic accessories,505.40,530.67,3/26/2019,20:14,3/18/2019,4.3
+286-01-5402,A,Nueva York,Normal,Female,66232,281.61,295.69,3/30/2019,13:22,Cash,9.6
+803-17-8013,A,Nueva York,Member,Female,Home and lifestyle,710.32,Cash,2/17/2019,17:09,Cash,4.1
+512-98-1403,A,Nueva York,Member,Female,Electronic accessories,79.44,83.41,3/21/2019,10:40,Ewallet,4.7
+848-42-2560,A,Nueva York,Normal,Female,Fashion accessories,163.82,172.01,3/5/2019,17:43,Cash,7.8
+532-59-7201,B,,Member,Male,2/14/2019,479.58,503.56,1/31/2019,14:04,Cash,5.5
+181-94-6432,C,Male,Member,Male,Fashion accessories,138.66,145.59,2/5/2019,19:05,Ewallet,9.7
+870-76-1733,A,Nueva York,Member,Female,Food and beverages,71.15,74.71,2/1/2019,10:08,Credit card,4.4
+423-64-4619,A,Nueva York,Member,Female,Health and beauty,139.95,146.95,3/7/2019,13:12,Cash,5
+227-07-4446,C,Houston,Member,Female,Ewallet,781.30,820.37,2/10/2019,20:51,Cash,4.4
+174-36-3675,C,Houston,Member,Male,Food and beverages,198.74,208.68,2/14/2019,17:29,Cash,5.2
+428-83-5800,2/27/2019,Houston,Member,Female,Food and beverages,63.24,66.40,2/9/2019,10:25,Cash,7.3
+603-07-0961,C,Houston,Member,Male,Electronic accessories,373.95,,1/10/2019,11:34,Cash,4.9
+704-20-4138,C,Houston,Member,Female,Health and beauty,207.69,218.07,3/11/2019,18:58,Credit card,8.1
+787-15-,C,Houston,Member,Male,Health and beauty,176.28,185.09,2/18/2019,16:28,Ewallet,8.4
+649-11-3678,C,Male,Normal,Female,Food and beverages,206.37,216.69,,20:26,Cash,5.5
+622-20-1945,C,Houston,Normal,Female,Health and beauty,39.42,41.39,1/18/2019,15:08,Cash,8.4
+372-94,A,Nueva York,Normal,Male,Health and beauty,91.56,96.14,2/15/2019,18:03,Ewallet,9.8
+563-91-7120,A,Nueva York,Normal,Female,Fashion accessories,308.85,324.29,3/8/2019,13:21,Cash,6.7
+746-54-5508,A,Nueva York,Normal,Male,Home and lifestyle,129.12,135.58,1/17/2019,12:48,Credit card,9.4
+276-54-0879,B,Chicago,Normal,Male,Sports and travel,390.96,410.51,3/12/2019,19:53,Ewallet,6.4
+815-11-1168,A,Nueva York,Member,Male,Food and beverages,498.90,523.85,3/9/2019,19:09,Cash,5.4
+719-76-3868,,Houston,Member,Male,Food and beverages,377.04,395.89,3/12/2019,16:30,Cash,8.6
+730-61-8757,B,Chicago,Member,Male,Health and beauty,204.52,214.75,1/25/2019,10:11,Credit card,4
+340-66-0321,A,Nueva York,Member,Male,Electronic accessories,145.44,152.71,3/25/2019,13:07,Cash,7.6
+868-81-1752,B,Chicago,Normal,Male,Home and lifestyle,198.18,208.09,2/7/2019,18:48,Cash,6.8
+634-97-8956,A,Nueva York,Normal,Male,Food and beverages,98.70,103.64,2/17/2019,17:27,Credit card,9.1
+566-71-1091,A,Nueva York,Normal,Male,Fashion accessories,385.10,404.36,2/3/2019,15:59,Cash,5.5
+442-48,A,Nueva York,Member,Male,Food and beverages,46.96,49.31,3/14/2019,11:21,Credit card,7.9
+835-16-0096,C,Male,Member,Male,Sports and travel,73.50,77.18,3/24/2019,13:48,Ewallet,8.5
+527-09-6272,A,Nueva York,Member,Female,55%,142.25,149.36,3/21/2019,10:17,Credit card,9.1
+898-04-2717,A,Nueva York,Normal,Male,Fashion accessories,687.60,721.98,3/19/2019,15:49,Ewallet,7.5
+692-27-8933,B,Chicago,Normal,Female,Sports and travel,347.70,365.09,2/24/2019,13:02,Cash,5.2
+633-09-3463,C,Houston,Normal,Female,Electronic accessories,142.95,150.10,3/28/2019,12:58,Credit card,9.5
+374-17-3652,B,Chicago,Member,Female,Food and beverages,385.38,404.65,2/5/2019,15:26,Credit card,8.9
+378-07,B,Chicago,Member,Male,Electronic accessories,144.27,151.48,2/10/2019,18:23,Credit card,7.8
+433-75-6987,B,Chicago,Member,Female,Health and beauty,391.79,411.38,3/5/2019,19:06,Ewallet,8.9
+873-95-4984,B,Chicago,Member,Female,,538.30,565.22,2/15/2019,20:21,Cash,7.7
+416-13-5917,C,Houston,Normal,Female,Food and beverages,485.15,509.41,1/30/2019,16:24,Ewallet,9.3
+150-89-8043,A,Nueva York,Normal,Male,Sports and travel,133.95,140.65,2/14/2019,15:04,Cash,6.2
+135-84-8019,A,Nueva York,Normal,Female,Fashion accessories,701.37,736.44,2/27/2019,16:10,Ewallet,7.6
+441-94-7118,A,Nueva York,Member,Male,Electronic accessories,71.95,75.55,,12:14,Cash,7.3
+725-96-3778,C,Houston,Member,FemaleMember,Home and lifestyle,714.00,749.70,1/20/2019,10:13,Cash,4.7
+531-80-1784,A,Nueva York,Normal,Male,Electronic accessories,182.14,191.25,3/28/2019,17:38,Cash,5.1
+400-45-1220,B,Chicago,Normal,Female,Health and beauty,135.00,141.75,2/27/2019,11:06,Credit card,4.8
+860-79-0874,C,Houston,Member,Female,Fashion accessories,993.00,"1,042.65",2/15/2019,14:53,Credit card,6.6
+834-61,A,Nueva York,Normal,Normal,Electronic accessories,361.83,379.92,1/26/2019,18:22,Cash,5.5
+,B,Chicago,Member,Female,Fashion accessories,383.11,402.27,3/14/2019,19:02,Credit card,8.5
+565-67-6697,B,Chicago,Member,Male,Home and lifestyle,243.00,255.15,3/2/2019,14:16,Cash,4.8
+320-49-6392,C,Houston,Normal,Female,Electronic accessories,30.24,31.75,3/4/2019,15:44,Cash,8.4
+889-04-9723,B,Chicago,Member,Female,Food and beverages,356.56,374.39,1/7/2019,12:20,Credit card,7.8
+632-90-0281,C,Houston,Normal,Female,Fashion accessories,375.50,394.28,3/8/2019,20:01,Credit card,9.3
+554-42-2417,C,Houston,Normal,Female,Sports and travel,954.40,"1,002.12",1/9/2019,13:45,Cash,5.2
+453-63-6187,B,Chicago,Normal,Male,Electronic accessories,82.50,86.63,3/1/2019,15:40,Ewallet,6.5
+578-80-7669,B,Chicago,Normal,Male,Sports and travel,74.97,78.72,3/16/2019,16:58,Cash,5.6
+612-36-5536,A,Nueva York,Member,Male,Food and beverages,647.68,680.06,2/17/2019,11:12,Credit card,7.4
+605-72-4132,C,Houston,Normal,Female,Food and beverages,755.76,793.55,2/27/2019,15:12,Cash,9.1
+471-41-2823,C,Houston,Normal,Male,Food and beverages,199.58,209.56,3/7/2019,20:37,Ewallet,8
+462-67-9126,A,Nueva York,Normal,Male,Home and lifestyle,439.32,461.29,1/21/2019,,Cash,7.2
+272-27-9238,C,Houston,Normal,Female,Food and beverages,164.96,173.21,2/19/2019,16:23,Cash,7.1
+834-25-9262,C,Houston,Normal,Female,Fashion accessories,326.72,343.06,1/6/2019,12:12,Cash,9.1
+122-61-9553,C,Houston,Normal,Female,Electronic accessories,461.88,484.97,3/14/2019,19:33,Cash,5.6
+468-88,A,Nueva York,Member,Male,Home and lifestyle,263.76,276.95,3/24/2019,10:29,Cash,6
+,,,,,,,,,,,
+254-31-0042,A,Nueva York,Member,Male,Electronic accessories,193.50,203.18,3/6/2019,12:46,Credit card,7.8
+201-86-2184,,Chicago,Member,Female,Electronic accessories,13:38,193.01,2/2/2019,19:40,Cash,9.9
+261-12-8671,B,Chicago,Normal,Female,Fashion accessories,121.92,128.02,1/25/2019,19:39,Credit card,4.9
+730-70-9830,C,Houston,Normal,Female,Home and lifestyle,420.66,441.69,3/14/2019,17:54,Ewallet,5.2
+382-25-8917,C,Houston,Normal,Male,Fashion accessories,252.48,265.10,1/29/2019,12:25,Cash,8.9
+422-29-8786,A,Nueva York,Normal,Female,Home and lifestyle,335.45,352.22,1/3/2019,16:47,Credit card,9.1
+667-23-5919,A,Nueva York,Member,Female,Fashion accessories,,507.68,1/14/2019,12:52,Ewallet,7
+843-01-4703,B,Chicago,Member,Female,Home and lifestyle,318.42,334.34,1/5/2019,19:50,Credit card,9.6
+743-88-1662,C,Houston,Normal,Male,,13:38,701.85,2/22/2019,18:17,Ewallet,8.7
+595-86-2894,C,Houston,Member,,Fashion accessories,387.92,407.32,2/6/2019,17:20,Ewallet,9.4
+182-69-8360,B,,Normal,Female,Electronic accessories,94.60,99.33,1/30/2019,13:32,Credit card,4
+289-15-7034,A,Nueva York,Member,Male,Sports and travel,329.32,345.79,1/11/2019,10:37,Credit card,7.5
+462-78-5240,C,Houston,Normal,Female,Electronic accessories,53.22,55.88,3/19/2019,14:35,Cash,4.2
+868-52-7573,B,Chicago,Normal,Female,Food and beverages,498.45,523.37,1/14/2019,12:09,Cash,9.9
+153-58-4872,C,Houston,Member,Female,Food and beverages,299.56,314.54,3/1/2019,15:32,Ewallet,4.2
+662-72-2873,A,Nueva York,Normal,Female,Food and beverages,,214.94,1/6/2019,13:58,Ewallet,9.9
+525-88-7307,B,Chicago,Member,Male,Sports and travel,75.82,79.61,1/31/2019,,Cash,5.8
+Food and beverages,C,Houston,Normal,Male,Food and beverages,280.62,294.65,3/11/2019,13:37,Cash,6
+725-56-0833,A,Nueva York,Normal,Female,Health and beauty,323.20,339.36,2/20/2019,16:49,Credit card,10
+394-41-0748,C,Houston,Member,Female,Fashion accessories,13:38,510.96,1/27/2019,14:55,Ewallet,9.5
+596-42-3999,B,Chicago,,Male,Food and beverages,127.54,133.92,3/10/2019,14:04,Credit card,6.6
+541-89-9860,C,Houston,Member,Female,Fashion accessories,241.44,253.51,2/15/2019,12:31,Cash,8.1
+173-82-9529,B,Chicago,Normal,Female,Fashion accessories,379.50,398.48,1/26/2019,14:51,Cash,9.7
+563-36-9814,A,Nueva York,Member,Male,Electronic accessories,76.82,80.66,2/13/2019,18:27,Ewallet,7.2
+308-47-4913,A,Nueva York,Member,Female,Sports and travel,522.60,548.73,3/9/2019,12:45,Credit card,6.2
+885-17-6250,A,Nueva York,Normal,Female,Health and beauty,79.74,83.73,3/6/2019,10:36,Ewallet,7.3
+,,Nueva York,Normal,Female,Health and beauty,13:38,406.88,1/24/2019,20:36,Ewallet,4.3
+316-01-3952,A,Nueva York,Normal,Female,Food and beverages,271.35,284.92,3/13/2019,14:16,Ewallet,4.6
+760-54-1821,B,Chicago,Normal,2/14/2019,Home and lifestyle,122.31,128.43,3/15/2019,10:26,Cash,5.8
+Food and beverages,B,Chicago,Member,2/14/2019,Health and beauty,246.36,258.68,3/5/2019,13:30,Credit card,8.3
+346-12-3257,B,Chicago,Member,Male,Electronic accessories,173.16,181.82,3/4/2019,16:28,Cash,8
+110-05-6330,C,Houston,Normal,Female,Food and beverages,236.58,248.41,3/25/2019,,Credit card,9.4
+651-61-0874,C,Houston,Normal,Male,Home and lifestyle,184.88,194.12,3/12/2019,20:04,Credit card,6.2
+236-86-3015,C,Houston,Member,Male,Home and lifestyle,13.98,14.68,2/4/2019,13:38,Ewallet,9.8
+831-64-0259,B,Chicago,,Female,Fashion accessories,198.75,208.69,2/22/2019,10:43,Ewallet,9.6

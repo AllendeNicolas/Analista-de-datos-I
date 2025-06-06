@@ -15,7 +15,7 @@
 
 <h2><a href="https://github.com/AllendeNicolas/Analista-de-datos-I">📂 1° Cuatrimestre</a></h2>
 	
-<p>Proyecto integrador del módulo "ANALISTA DE DATOS I" compuesta por las materias "Proceamiento de Datos" y "Etadística y Exploración de Datos", correspondientes al 1er cuatrimestre del 2do año, de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial, Instituto Superior Politécnico de Córdoba. <a href="https://github.com/AllendeNicolas/Analista-de-datos-I">Ver proyecto.</a></p>
+<p>Proyecto integrador del módulo "ANALISTA DE DATOS I" compuesta por las materias "Procesamiento de Datos" y "Etadística y Exploración de Datos", correspondientes al 1er cuatrimestre del 2do año, de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial, Instituto Superior Politécnico de Córdoba. <a href="https://github.com/AllendeNicolas/Analista-de-datos-I">Ver proyecto.</a></p>
 
 <hr/>
 
